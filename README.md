@@ -8,7 +8,7 @@ You will have to follow the instructions(that will appear by clicking the text a
     <li>Don't give space in between.</li>
     <li>The equation must contain only one variable.</li>
     <li>Variable name must be a single character.</li>
-    <li>Don't use curly{} or square[] brackets, only use parenthesis(), don't give space before and after parenthesis().</li>
+    <li>Don't use curly{} or square[] brackets, only use parenthesis().
     <li>A '*' symbol must be given between the coefficient and variable.</li>
 </ul>
 <hr>
