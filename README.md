@@ -1,4 +1,4 @@
-# <img src='https://github.com/AshishAntil07/AshishAntil07/blob/main/4pointedStar.svg' height='25px' width='25px'> Equation Verifier
+<table align='center' border='0'><tr><td><img src='https://github.com/AshishAntil07/AshishAntil07/blob/home/5pointedStar.svg' height='65px' width='65px'></td> <td><h1>Equation Verifier</h1></td></tr></table>
 A web app to verify your equations.<br>
 You will have to follow the instructions(that will appear by clicking the text at the botton of the box) to verify your equations perfectly.<br>
 
