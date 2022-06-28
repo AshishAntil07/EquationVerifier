@@ -2,7 +2,7 @@
 A web app to verify your equations.<br>
 You will have to follow the instructions(that will appear by clicking the text at the botton of the box) to verify your equations perfectly.<br>
 
-## 📄 Instructions :-
+## 📄 Instructions :
 <ul>
     <li>Don't give space in between.</li>
     <li>The equation must contain only one variable.</li>
@@ -11,6 +11,6 @@ You will have to follow the instructions(that will appear by clicking the text a
     <li>A '*' symbol must be given between the coefficient and variable.</li>
 </ul>
 
-## 👁️ Preview :-
+## 👁️ Preview :
 
 <div><img src = 'https://github.com/AshishAntil07/AshishAntil07/blob/EqVerifier/preview.png'></div>
