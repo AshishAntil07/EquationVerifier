@@ -112,7 +112,7 @@ const varSpecifier = () => {
 }
 
 const operatorRep = () => {
-  equation = equation.replaceAll("^", "**");
+  equation = equation.replaceAll("^", "**").replaceAll('÷', '/');
 }
 
 function solve(expression){
