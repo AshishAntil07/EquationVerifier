@@ -58,10 +58,12 @@ const whiteSpaceInserter = (equation) => {
   }
   if(equation.indexOf('-') !== -1){
     const minusCount = count(equation, '-');
+    let prevIndex = equation.length;
     for(let p = 0; p < minusCount; p++){
       if(numbers.includes(equation[equation.indexOf('-')-1])){
-        equation = replaceChars(equation, equation.indexOf('-'), equation.indexOf('-')+1, ' - ')
+        equation = replaceChars(equation, equation.lastIndexOf('-', prevIndex), equation.lastIndexOf('-', prevIndex)+1, ' - ')
       }
+      prevIndex = equation.lastIndexOf('-', prevIndex)-1;
     }
   }
   return equation
