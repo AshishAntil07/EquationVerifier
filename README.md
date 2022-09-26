@@ -14,3 +14,6 @@ You will have to follow the instructions(that will appear by clicking the text a
 ## 👁️ Preview :
 
 <div><img src = 'https://github.com/AshishAntil07/AshishAntil07/blob/EqVerifier/preview.png'></div>
+
+## 📰 License :
+This repository is licensed under [MIT License](https://github.com/AshishAntil07/EquationVerifier/blob/main/LICENSE)
